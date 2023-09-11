@@ -77,7 +77,7 @@ Navbar css setup
 Hero css setup
 --------------------------*/
 #Hero{
-  background-image:url(img/home/Hero-img.webp)!important;
+  background-image:url(img/home/Hero-img.jpg)!important;
   background-position: center;
   margin-top:-55px ;
 }
